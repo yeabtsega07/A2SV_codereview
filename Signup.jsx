@@ -79,7 +79,7 @@ const SignUp = () => {
 
             <label className="flex items-center mt-2 mb-4">
         <input
-          type="checkbox"
+          type="checkbox "
           className="mr-2 w-4 h-4"
           checked={isPasswordVisible}
           onChange={togglePasswordVisibility}
